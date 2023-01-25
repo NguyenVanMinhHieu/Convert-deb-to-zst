@@ -1,0 +1,8 @@
+# Convert deb to zst
+# Install debtap
+    
+   yay -Sy debtap
+
+# Use debtap convert file.deb to file.zst
+
+  debtap file.deb
